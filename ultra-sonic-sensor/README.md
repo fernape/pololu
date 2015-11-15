@@ -19,5 +19,5 @@ You can see it in action ![here](https://youtu.be/w6TYFMHX_Kw)
 
 Here is a picture of the connections.
 
-![schematics](https://github.com/fernape/pololu/blob/master/ultra-sonic-sensorr/pololu_ulstrasound_schematics.png)
-![real connection](https://github.com/fernape/pololu/blob/master/ultra-sonic-sensorr/shot.png)
+![schematics](https://github.com/fernape/pololu/blob/master/ultra-sonic-sensor/pololu_ulstrasound_schematics.png)
+![real connection](https://github.com/fernape/pololu/blob/master/ultra-sonic-sensor/shot.png)
