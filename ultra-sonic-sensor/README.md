@@ -15,7 +15,7 @@ Finally, we ground the echo pin.
 
 That's all!
 
-You can see it in action ![here](https://youtu.be/w6TYFMHX_Kw)
+You can see it in action [here](https://youtu.be/w6TYFMHX_Kw)
 
 Here is a picture of the connections.
 
